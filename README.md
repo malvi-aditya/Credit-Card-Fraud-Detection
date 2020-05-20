@@ -4,3 +4,5 @@ Predict if a Credit Card transaction is fraud. This is implemented by two differ
 2. Isolation Forest 
 
 We fit both the models (one at a time) on the data and try to predict fraud cases. 
+
+The Dataset is available on kaggle as creditcards.csv.
